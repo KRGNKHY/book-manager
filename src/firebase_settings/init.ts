@@ -9,13 +9,13 @@ import { getFirestore, initializeFirestore } from "firebase/firestore";
 // ウェブアプリの Firebase 構成
 // Firebase JS SDK v7.20.0 以降の場合、measurementId はオプションです
 const firebaseConfig = {
-  apiKey: "AIzaSyD1HuAcmT6WeJbGt5PdECMpv-csQCw0xew",
-  authDomain: "createapp-95361.firebaseapp.com",
-  projectId: "createapp-95361",
-  storageBucket: "createapp-95361.appspot.com",
-  messagingSenderId: "929573659724",
-  appId: "1:929573659724:web:ebb4dd5b960e2d8c6380e9",
-  measurementId: "G-N9JZDESXZ3"
+  apiKey: "apiKey",
+  authDomain: "authDomain",
+  projectId: "projectId",
+  storageBucket: "storageBucket",
+  messagingSenderId: "messagingSenderId",
+  appId: "appId",
+  measurementId: "measurementId"
 };
 
 // Firebaseを初期化する
