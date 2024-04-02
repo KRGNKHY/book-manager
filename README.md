@@ -42,7 +42,8 @@
 
 ## システム構成
 <div id="システム構成"></div>
-ユーザーはインターネットを通してアカウントを作成・登録(Authentication)し、また、検索した書籍をデータベース(Cloud Firestore)に登録することができる。<br>
+ユーザーはインターネットを通してFirebase Authenticationにアカウントを作成・登録することができる。<br>
+また、Google Books APIを通して検索した書籍を、Cloud Firestoreのデータベースに登録することができる。<br>
 <img width=50% alt="システム構成図" src="https://github.com/KRGNKHY/book-manager/assets/117788763/64e47d40-a8c6-44cb-9c01-c2110a094af6">
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
