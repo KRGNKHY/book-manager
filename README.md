@@ -150,19 +150,19 @@ https://createapp-95361.web.app
 <div id="サンプルイメージ"></div>
 
 - ログイン画面<br>
-<img alt="ログイン画面" src="https://github.com/KRGNKHY/book-manager/assets/117788763/10e91ca1-695c-4690-8169-08c5b0b6f2f6" width="50%"/>
+<img alt="ログイン画面" src="https://github.com/KRGNKHY/book-manager/assets/117788763/3f820900-17b0-4cf5-8560-23d168072a03" width="50%"/>
 
 - 書籍検索<br>
-<img alt="書籍検索画面" src="https://github.com/KRGNKHY/book-manager/assets/117788763/a2cb3cf5-9752-4a04-8724-8698132ca049" width="50%"/>
+<img alt="書籍検索画面" src="https://github.com/KRGNKHY/book-manager/assets/117788763/91797ef4-5d77-46fb-96dd-15fd81b9c833" width="50%"/>
 
 - 登録書籍一覧<br>
-<img alt="登録書籍一覧画面" src="https://github.com/KRGNKHY/book-manager/assets/117788763/6f8da601-8785-4285-86fb-07dc9f47776d" width="50%"/>
+<img alt="登録書籍一覧画面" src="https://github.com/KRGNKHY/book-manager/assets/117788763/94cb7da2-a611-4dbe-a97b-a130d825b630" width="50%"/>
 
 - 書籍詳細<br>
-<img alt="書籍詳細表示" src="https://github.com/KRGNKHY/book-manager/assets/117788763/d47ab5da-2371-4d78-8b93-86e1a81f35ee" width="50%"/>
+<img alt="書籍詳細表示" src="https://github.com/KRGNKHY/book-manager/assets/117788763/e92a5894-ad17-4705-92e2-290444d8f438" width="50%"/>
 
 - 書籍へのコメント<br>
-<img alt="書籍へのコメント" src="https://github.com/KRGNKHY/book-manager/assets/117788763/77d85131-eaa7-4e3a-9e4f-a97d7eb09e2d" width="50%"/>
+<img alt="書籍へのコメント" src="https://github.com/KRGNKHY/book-manager/assets/117788763/15460908-e69a-4470-bacb-d28e9ad0f244" width="50%"/>
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
 
