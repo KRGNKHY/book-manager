@@ -2,8 +2,6 @@
 
 ## 使用技術一覧
 
-<!-- シールド一覧 -->
-<!-- 該当するプロジェクトの中から任意のものを選ぶ-->
 <p style="display: inline">
   <!-- 使用言語・フレームワーク一覧 -->
   <img src="https://img.shields.io/badge/-TypeScript-000000.svg?logo=typescript&style=for-the-badge">
@@ -74,7 +72,7 @@ npm install -g firebase-tools
 npm install パッケージ名
 ```
 
-#### ⅱ.Firebaseの初期化
+<!-- #### ⅱ.Firebaseの初期化
 Firebaseにログイン
 ```
 firebase login
@@ -109,15 +107,15 @@ firebase init
 →No
 
 + ? File public/index.html already exists. Overwrite?
-→No
+→No -->
 
-#### ⅲ.ローカル環境でアプリを実行
+#### ⅱ.ローカル環境でアプリを実行
 ```
 npm run serve
 ```
 処理が完了したらhttp://localhost:8080/にアクセス
 
-#### ⅳ.ビルドする
+#### ⅲ.ビルドする
 以下のコマンドでプロジェクトをBuildできる
 ビルドされたデータはdistフォルダに格納される
 ```
@@ -125,7 +123,7 @@ npm run build
 ```
 ※ビルド：ソースコードを機械語に翻訳(コンパイル)して、実際に動作するプログラムを作り出すこと
 
-#### ⅴ.ホスティングする
+#### ⅳ.ホスティングする
 ビルドしたデータは以下のコマンドでホスティングできる
 ```
 firebase --only hosting
@@ -165,6 +163,3 @@ https://createapp-95361.web.app
 <img alt="書籍へのコメント" src="https://github.com/KRGNKHY/book-manager/assets/117788763/15460908-e69a-4470-bacb-d28e9ad0f244" width="50%"/>
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
-
-
-
