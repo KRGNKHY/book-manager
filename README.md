@@ -67,7 +67,7 @@ npm install -g firebase-tools
 ※プロジェクトのルートディレクトリでコマンドを実行してください<br>
 
 ```
-npm install パッケージ名
+npm install
 ```
 
 <!-- #### ⅱ.Firebaseの初期化
