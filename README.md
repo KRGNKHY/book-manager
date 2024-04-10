@@ -155,9 +155,9 @@ https://createapp-95361.web.app
 <img alt="登録書籍一覧画面" src="https://github.com/KRGNKHY/book-manager/assets/117788763/3e04c974-4f09-46f4-a705-5591606df6a9" width="50%"/>
 
 - 書籍詳細<br>
-<img alt="書籍詳細表示" src="https://github.com/KRGNKHY/book-manager/assets/117788763/0066f592-3e93-4df6-83a3-ea74a72e5ee1" width="50%"/>
+<img alt="書籍詳細表示" src="https://github.com/KRGNKHY/book-manager/assets/117788763/0066f592-3e93-4df6-83a3-ea74a72e5ee1" width="40%"/>
 
 - 書籍へのコメント<br>
-<img alt="書籍へのコメント" src="https://github.com/KRGNKHY/book-manager/assets/117788763/7f6e090e-4606-454c-98ef-189b392a47a6" width="50%"/>
+<img alt="書籍へのコメント" src="https://github.com/KRGNKHY/book-manager/assets/117788763/7f6e090e-4606-454c-98ef-189b392a47a6" width="40%"/>
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
