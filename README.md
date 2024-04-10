@@ -42,7 +42,7 @@
 <div id="システム構成"></div>
 ユーザーはインターネットを通してFirebase Authenticationにアカウントを作成・登録することができる。<br>
 また、Google Books APIを通して検索した書籍を、Cloud Firestoreのデータベースに登録することができる。<br>
-<img width=50% alt="システム構成図" src="https://github.com/KRGNKHY/book-manager/assets/117788763/64e47d40-a8c6-44cb-9c01-c2110a094af6">
+<img width=50% alt="システム構成図" src="https://github.com/KRGNKHY/book-manager/assets/117788763/4f980781-fb78-4423-a443-ab779e58c2cd)">
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
 
@@ -149,15 +149,15 @@ https://createapp-95361.web.app
 <img alt="ログイン画面" src="https://github.com/KRGNKHY/book-manager/assets/117788763/3f820900-17b0-4cf5-8560-23d168072a03" width="50%"/>
 
 - 書籍検索<br>
-<img alt="書籍検索画面" src="https://github.com/KRGNKHY/book-manager/assets/117788763/91797ef4-5d77-46fb-96dd-15fd81b9c833" width="50%"/>
+<img alt="書籍検索画面" src="https://github.com/KRGNKHY/book-manager/assets/117788763/9a846cda-38a3-4e07-87c4-78e9692a9dc0" width="50%"/>
 
 - 登録書籍一覧<br>
-<img alt="登録書籍一覧画面" src="https://github.com/KRGNKHY/book-manager/assets/117788763/94cb7da2-a611-4dbe-a97b-a130d825b630" width="50%"/>
+<img alt="登録書籍一覧画面" src="https://github.com/KRGNKHY/book-manager/assets/117788763/3e04c974-4f09-46f4-a705-5591606df6a9" width="50%"/>
 
 - 書籍詳細<br>
-<img alt="書籍詳細表示" src="https://github.com/KRGNKHY/book-manager/assets/117788763/e92a5894-ad17-4705-92e2-290444d8f438" width="50%"/>
+<img alt="書籍詳細表示" src="https://github.com/KRGNKHY/book-manager/assets/117788763/0066f592-3e93-4df6-83a3-ea74a72e5ee1" width="50%"/>
 
 - 書籍へのコメント<br>
-<img alt="書籍へのコメント" src="https://github.com/KRGNKHY/book-manager/assets/117788763/15460908-e69a-4470-bacb-d28e9ad0f244" width="50%"/>
+<img alt="書籍へのコメント" src="https://github.com/KRGNKHY/book-manager/assets/117788763/7f6e090e-4606-454c-98ef-189b392a47a6" width="50%"/>
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
