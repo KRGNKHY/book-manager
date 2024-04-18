@@ -124,7 +124,7 @@ npm run build
 #### ⅳ.ホスティングする
 ビルドしたデータは以下のコマンドでホスティングできる
 ```
-firebase --only hosting
+firebase deploy --only hosting
 ```
 ホスティングで公開されたデータは[アプリURL](#アプリURL)からアクセス可能
 
